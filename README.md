@@ -13,7 +13,4 @@ Small Python 3 script to download and convert YouTube videos from MP4 into MP3.
 `> ls`<br />
 `[videoID].mp3`<br />
 
-## Example Project Website
-Check out this website: [randomyoutubevideo.com/tools/youtube-mp3-converter/](https://www.randomyoutubevideo.com/tools/youtube-mp3-converter/)
-
 You can use JavaScript and HTML5 "required" attribute to create your forms with progress bar. :running:
