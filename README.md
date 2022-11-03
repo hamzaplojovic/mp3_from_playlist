@@ -20,3 +20,5 @@ Type how many playlists you want to download, and type url of every one, for exa
 MP3s will be in `result` directory
 
 :)
+
+Creator of original: @0x01h
