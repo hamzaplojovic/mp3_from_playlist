@@ -21,4 +21,4 @@ MP3s will be in `result` directory
 
 :)
 
-Creator of original: @0x01h
+Creator of original: [@0x01h](https://github.com/0x01h)
