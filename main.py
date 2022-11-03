@@ -1,6 +1,6 @@
-from pytube import YouTube, Playlist
-import pytube
 import os
+import pytube
+from pytube import YouTube, Playlist
 
 def get_urls_from_playlist(playlists):
     urls = []
@@ -20,5 +20,10 @@ def main(urls):
         os.rename(str(name), str(name)+".mp3")
     
 if __name__ == '__main__':
-    video_urls = get_urls_from_playlist(['https://www.youtube.com/playlist?list=PLflqtq8EOGAKIqL700Mav0jQsWAIGCVkd'])
+    playlists = []
+    number_of_playlists = int(input("How many playlists you want to download: "))
+    for i in range(number_of_playlists):
+        playlist = input("Enter the Youtube URL of playlist: ")
+        playlists.append(playlist)
+    video_urls = get_urls_from_playlist(playlists)
     main(video_urls)
