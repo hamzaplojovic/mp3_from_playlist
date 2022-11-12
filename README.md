@@ -1,4 +1,4 @@
-# mp3 of playlist videos from youtube url
+# MP3 of playlist videos from youtube url
 Download mp3 of every video of playlist from youtube url
 
 First, clone the repository and go to the directory you downloaded
