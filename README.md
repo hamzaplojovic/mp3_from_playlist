@@ -13,9 +13,9 @@ And run the main.py file:
 or:
 `python main.py`
 
-Type how many playlists you want to download, and type url of every one, for example:
+Enter type of the content you want to download. For now, the options are playlist or video.
 
-`https://www.youtube.com/playlist?list=PLTC7VQ12-9raqhLCx1S1E_ic35t94dj28` 
+Enter the url of the said type of content, and click `enter`
 
 MP3s will be in `result` directory
 
